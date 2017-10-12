@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "commonEventHeader": {
+     "domain": "other",
+     "eventId": "ue-event-12345",
+     "eventType": "vendor-event-listener",
+     "priority": "Normal",
+     "version": 5.0
+  },
+  "eventFields": {
+     "eventFieldsVersion": 1.0
+  } 
 }
